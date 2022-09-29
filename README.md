@@ -4,7 +4,7 @@
   </a> -->
 
   <h1 align="center">
-    Java and OOP - University Positivo
+    Java Programming
   </h1>
 
 </div>
@@ -27,24 +27,30 @@ This is my repository used to improve my Java Programming/Logic
 
 <p align="center">
    <a href="https://developer.oracle.com/br/java/">
-      <img src="images/java.svg" alt="Java" width="30" height="30"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
    </a>
    <a href="https://git-scm.com/doc/">
-      <img src="images/git.svg" alt="git" width="30" height="30"/>
+      <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
    </a>
    <a href="https://github.com/">
-      <img src="images/github.svg" alt="Github" width="30" height="30"/>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
    </a> 
+   <a href="https://spring.io/projects/spring-boot"/>
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    </a>
+    <a href="hackerrank.com/">
+      <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
+    </a>
 </p>
 
 <!-- --- 
 ## 🚧 Projects in this repository:
 <ul>
   <li>
-    Genius Game
+    
   </li>
   <li>
-    Calculator
+    
   </li>
  </ul>
 
