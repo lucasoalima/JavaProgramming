@@ -1,85 +1,27 @@
-<!-- > <div align="center">
-  <a href="https://github.com">
-    <img src="images/logo.svg" alt="Logo" width="160" height="80">
-  </a> -->
-
-  <h1 align="center">
-    Java Programming
-  </h1>
-
-</div>
-
-<!--  <h3 align="center">
-
-
-</h3>  -->
-
----
-
-## 📝 About:
-
-This is my repository used to improve my Java Programming/Logic 
-
----
-
-## 💻 Languages and 🛠 Tools:
-
+<h1 align="center">Java Programming</h1>
 
 <p align="center">
-   <a href="https://developer.oracle.com/br/java/">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-   </a>
-   <a href="https://git-scm.com/doc/">
-      <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
-   </a>
-   <a href="https://github.com/">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-   </a> 
-   <a href="https://spring.io/projects/spring-boot"/>
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-    </a>
-    <a href="hackerrank.com/">
-      <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
-    </a>
+  Java programming exercises and <b>HackerRank</b> challenge solutions — a practice log
+  for core Java, data structures and algorithmic problem solving.
 </p>
 
-<!-- --- 
-## 🚧 Projects in this repository:
-<ul>
-  <li>
-    
-  </li>
-  <li>
-    
-  </li>
- </ul>
+<p align="center"><img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java"></p>
 
+## 📝 About
+Standalone Java exercises, including solutions to HackerRank problems, kept as a
+study/reference repository.
 
-<h1>🤖 Preview </h1>
-<img src=" -->
-
-<!-- ## Como Baixar
-
+## 🚀 How to compile & run
 ```bash
+javac Hackerrank/SomeProblem.java
+java -cp Hackerrank SomeProblem
+```
 
-# Instruções
-
-$ Comandos
-
-
-``` -->
+## 📁 Structure
+```
+JavaProgramming/
+└── Hackerrank/   # HackerRank challenge solutions (Java)
+```
 
 ---
-
-<h3 align="center">
-
-  Lucas Soares de Lima
-<br/>
-
-  <a align="center">
-   
-   [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lucasoalima/)
-&nbsp;
-  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/lucasoalima)
-  </a>
-</h3>
+<p align="center"><a href="https://www.linkedin.com/in/lucasoalima/">LinkedIn</a> &middot; <a href="https://github.com/lucasoalima">GitHub</a></p>
